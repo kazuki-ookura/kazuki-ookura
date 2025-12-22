@@ -2,7 +2,7 @@
 
 **Full Stack Engineer / Founder of i-media LLC**
 
-大阪を拠点に活動するエンジニア兼、合同会社i-mediaの代表です。
+大阪を在住のエンジニアです。
 技術力とビジネス視点を兼ね備えた開発パートナーとして、Webアプリケーション開発からAI実装まで幅広く対応しています。
 
 > **Note:** I combine technical expertise with business strategy to build high-ROI solutions.
