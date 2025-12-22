@@ -34,5 +34,5 @@
 
 ### 💼 Contact & Links
 - **Company:** [i-media LLC](https://github.com/i-media-llc)
-- **YOUTRUST:** [kazukiookura](https://youtrust.jp/users/kazukiookura)
+- **YOUTRUST:** [kazukiookura](https://youtrust.jp/users/kazuki-ookura)
 - **Location:** Osaka, Japan
