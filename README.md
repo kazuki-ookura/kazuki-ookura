@@ -1,4 +1,4 @@
-# Hi there, I'm Kazuki Ookura 👋
+# Hi there, I'm Kazuki Okura 👋
 
 **Full Stack Engineer / Founder of i-media LLC**
 
