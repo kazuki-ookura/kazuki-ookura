@@ -1,4 +1,4 @@
-# Hi there, I'm Kazuki Ookura 👋
+# Hi there, I'm Kazuki Okura 👋
 
 **SaaS Incubator | Full Stack Engineer | Founder of i-media LLC**
 
