@@ -39,7 +39,7 @@ I also use Claude Code, Codex, and other AI-assisted development tools to accele
 
 ## Selected projects
 
-- [Launch Flow](https://launchflow.jp) — SaaS boilerplate and product development platform
+- [Launch Flow](https://launchflow.jp) — SaaS product development platform (private source repository)
 - [grok-cli](https://github.com/kazuki-ookura/grok-cli) — TypeScript CLI for terminal-based AI workflows
 - [FlowSales](https://github.com/kazuki-ookura/flow-sales) — AI-assisted sales automation project
 - [i-media LLC](https://i-media.llc) — Product development and engineering activities
