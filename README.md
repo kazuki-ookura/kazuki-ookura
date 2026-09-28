@@ -1,42 +1,51 @@
-# Hi there, I'm Kazuki Okura 👋
+# Hi, I'm Kazuki Okura 👋
 
-**SaaS Incubator | Full Stack Engineer | Founder of i-media LLC**
+**Full-Stack Engineer | SaaS Product Development | Founder of i-media LLC**
 
-I am a Japan-based engineer specializing in high-ROI solutions that bridge the gap between technical execution and business strategy. Currently focusing on autonomous AI agents and scalable SaaS architecture.
+I am a Japan-based full-stack engineer who builds and improves business SaaS products from requirements clarification through design, implementation, testing, and release.
 
-> **Mission:** Minimizing resources, maximizing impact through Specification-Driven Development (SDD).
+## What I do
 
----
+- Turn product requirements and business needs into practical technical designs
+- Build user-facing screens, admin tools, APIs, and database features
+- Coordinate with product managers, designers, QA, and other engineering teams
+- Own feature delivery from specification and implementation through testing and release
+- Improve maintainability through code review, documentation, testing, and development workflows
 
-### 🛠 Tech Stack
+My recent work includes B2B SaaS development involving campaign management, account review workflows, external service integrations, notifications, reporting, permissions, and operational tooling. I am comfortable working across both frontend and backend, while keeping user experience and business outcomes in view.
 
-**Languages & Frameworks**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+## Core stack
+
+**Languages & frameworks**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-**Infrastructure & Tools**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Data, cloud & development**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
----
+I also use Claude Code, Codex, and other AI-assisted development tools to accelerate investigation, implementation, testing, and documentation while validating the resulting work myself.
 
-### 🚀 Current Focus
-- **OSS Maintenance:** Maintaining [grok-cli](https://github.com/kazuki-ookura/grok-cli) to empower terminal-based AI workflows.
-- **AI-Driven Automation:** Developing autonomous SDR systems (FlowSales) and AI-integrated logistics SaaS.
-- **Launch Flow:** Building a robust SaaS boilerplate for rapid product market fit (PMF) testing.
+## Selected projects
 
----
+- [Launch Flow](https://launchflow.jp) — SaaS boilerplate and product development platform
+- [grok-cli](https://github.com/kazuki-ookura/grok-cli) — TypeScript CLI for terminal-based AI workflows
+- [FlowSales](https://github.com/kazuki-ookura/flow-sales) — AI-assisted sales automation project
+- [i-media LLC](https://i-media.llc) — Product development and engineering activities
 
-### 💼 Portfolio & Contact
-- **Project:** [Launch Flow (launchflow.jp)](https://launchflow.jp)
-- **Company:** [i-media LLC (i-media.llc)](https://i-media.llc)
-- **GitHub Org:** [@i-media-llc](https://github.com/i-media-llc)
-- **Location:** Osaka, Japan (Available for global collaboration)
+## Contact
 
----
-*Looking for technical partnership or consulting? Feel free to reach out via GitHub Issues or my company website.*
+- Osaka, Japan
+- Open to remote freelance engagements and product collaborations
+- [GitHub organization](https://github.com/i-media-llc)
