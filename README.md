@@ -37,13 +37,6 @@ My recent work includes B2B SaaS development involving campaign management, acco
 
 I also use Claude Code, Codex, and other AI-assisted development tools to accelerate investigation, implementation, testing, and documentation while validating the resulting work myself.
 
-## Selected projects
-
-- [Launch Flow](https://launchflow.jp) — SaaS product development platform (private source repository)
-- [grok-cli](https://github.com/kazuki-ookura/grok-cli) — TypeScript CLI for terminal-based AI workflows
-- [FlowSales](https://github.com/kazuki-ookura/flow-sales) — AI-assisted sales automation project
-- [i-media LLC](https://i-media.llc) — Product development and engineering activities
-
 ## Contact
 
 - Osaka, Japan
