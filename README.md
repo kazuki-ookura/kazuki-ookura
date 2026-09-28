@@ -41,4 +41,3 @@ I also use Claude Code, Codex, and other AI-assisted development tools to accele
 
 - Osaka, Japan
 - Open to remote freelance engagements and product collaborations
-- [GitHub organization](https://github.com/i-media-llc)
